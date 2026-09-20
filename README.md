@@ -7,7 +7,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-Grade 6 student from Guangdong, China | AI Vibe Coder 💻  
+Grade 7 student from Guangdong, China | AI Vibe Coder 💻  
 Passionate about building tools, learning deeply, and pushing boundaries.
 
 ---
@@ -16,12 +16,12 @@ Passionate about building tools, learning deeply, and pushing boundaries.
 
 - 🌎 **Languages**: Native Chinese · **English (B1)** · **Spanish (A1)**.
 - 🖥️ **Environment**: ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square) ![WSL](https://img.shields.io/badge/-WSL-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Zsh](https://img.shields.io/badge/-Zsh-000000?style=flat-square&logo=zsh&logoColor=white)
-- 🔧 **Tools**: Antigravity • Obsidian (600+ notes) • neovim
-- 🤖 **AI Coding**: Claude, Gemini, GPT • Vibe Coding
+- 🤖 **AI Coding**: Claude, Gemini, GPT • OpenCode
 
 ### 🛠️ Projects
 
 - **[regex-search](https://github.com/tongtongsucho/regex-search)**: A custom Obsidian plugin for advanced regex searching.
+- **[correction-book](https://github.com/tongtongsucho/correction-book)**: A PWA for tracking mistakes — SM-2 review, LaTeX, Notion-style database, Obsidian-style graph.
 
 ---
 
